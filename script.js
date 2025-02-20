@@ -99,7 +99,7 @@ function houveColisao(){
     const largura = 400;
     const altura = 100;
     ctx.fillRect((canvas.width / 2) - (largura / 2), (canvas.height / 2) - (altura / 2), largura, altura);
-    ctx.fillStyle = 'black';
+    ctx.fillStyle = 'white';
     ctx.font = '50px Arial';
 
     const texto = "GAME OVER";
