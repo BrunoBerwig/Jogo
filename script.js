@@ -152,4 +152,4 @@ class Jogo {
 }
 
 const jogo = new Jogo(canvas);
-jogo.iniciar();
+jogo.iniciar()
